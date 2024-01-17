@@ -1,3 +1,4 @@
-openai==1.6.1
-pydub==0.25.1
+openai_whisper==20231117
 pytube==15.0.0
+tiktoken==0.5.2
+transformers==4.30.2

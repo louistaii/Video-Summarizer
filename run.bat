@@ -1,3 +1,3 @@
 @ECHO OFF
-python -u "summary.py"
+python -u main.py
 pause
